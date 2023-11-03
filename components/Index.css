@@ -1,0 +1,26 @@
+@media (max-width: 600px) {
+    .sidebar {
+        width:10vw !important;
+        padding: 0 !important;
+    }
+    .itemIsebar{
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+        font-size: x-large !important;
+    
+    }
+    .sideLabel{
+     display: none;
+    }
+
+    .conttent{
+        width: 90vw;
+        height: 100vh;
+        
+    }
+
+}
+.itemIsebar{
+    font-size: x-large;
+    padding-left: 30px;
+}
